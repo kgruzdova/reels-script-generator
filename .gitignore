@@ -17,7 +17,7 @@ frontend/.env.local
 
 # Editor
 .claude/*
-!.claude/commands/
+!.claude/skills/
 *.tsbuildinfo
 
 # OS

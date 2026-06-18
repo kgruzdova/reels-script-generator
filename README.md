@@ -37,6 +37,8 @@
 - [x] Кнопка копирования всего сценария
 - [x] Обработка ошибок
 
+https://github.com/user-attachments/assets/2ab45028-fcba-4c55-a63f-4b48aeeb674d
+
 ## Технологии
 
 | Слой        | Стек                                      |

@@ -16,7 +16,8 @@ frontend/.next/
 frontend/.env.local
 
 # Editor
-.claude/
+.claude/*
+!.claude/commands/
 *.tsbuildinfo
 
 # OS
